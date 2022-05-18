@@ -1,0 +1,219 @@
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #5D6975;
+  text-decoration: underline;
+}
+
+body {
+  position: relative;
+  width: 21cm;  
+  height: 29.7cm; 
+  margin: 0 auto; 
+  color: #001028;
+  background: #FFFFFF; 
+  font-family: Arial, sans-serif; 
+  font-size: 12px; 
+  font-family: "Times New Roman";
+}
+
+header {
+  padding: 0px 0;
+  margin-bottom: 0px;
+}
+
+
+.klm {
+   position: relative;
+  width: 21cm;  
+  height: 29.7cm; 
+  margin: 0 auto; 
+  color: #001028;
+  background: #FFFFFF; 
+  font-family: Arial, sans-serif; 
+  font-size: 12px; 
+  font-family: "Times New Roman";
+}
+
+#logo {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#logo img {
+  width: 90px;
+}
+
+.header-koop {
+  border-bottom: 2px solid  #000;
+  margin: 0 0 0px 0;
+  float: left;
+  width: 100%;
+}
+
+.header-left {
+  width: 10%;
+  position :relative;
+  float: left;
+}
+
+.header-left img {
+  width: 100px;
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
+
+.header-right {
+  width: 90%;
+  position: relative;
+  left: 100px;
+  float: left;
+}
+
+h1 {
+  color: #5D6975;
+  font-size: 12px;
+  line-height: 1.4em;
+  font-weight: normal;
+  text-align: left;
+  background: url(dimension.png);
+}
+
+h5 {
+  font-family: "Times New Roman";
+  font-size: 12px;
+  line-height: 0.1em;
+}
+
+table {
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  line-height: 1.8em;
+
+}
+
+table tr td {
+  font-size: 11px;
+  line-height: 1.8em;
+}
+
+
+#garis_1{
+  border-style:solid;
+}
+#garis_2{
+  border-style: dotted;
+}
+#garis_3{
+  border-style: dashed;
+}
+#garis_4{
+  border-style: double;
+}
+#garis_5{
+  border-style: groove;
+}
+#garis_6{
+  border-style: inset;
+}
+#garis_7{
+  border-style: outset;
+}
+#garis_8{
+  border-style: ridge;
+}
+
+/* 
+#project {
+  float: left;
+}
+
+#project span {
+  color: #5D6975;
+  text-align: right;
+  width: 52px;
+  margin-right: 10px;
+  display: inline-block;
+  font-size: 0.8em;
+}
+
+#company {
+  float: right;
+  text-align: right;
+}
+
+#project div,
+#company div {
+  white-space: nowrap;        
+} */
+
+/* table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+
+table tr:nth-child(2n-1) td {
+  background: #F5F5F5;
+}
+
+table th,
+table td {
+  text-align: center;
+}
+
+table th {
+  padding: 5px 20px;
+  color: #5D6975;
+  border-bottom: 1px solid #C1CED9;
+  white-space: nowrap;        
+  font-weight: normal;
+}
+
+table .service,
+table .desc {
+  text-align: left;
+}
+
+table td {
+  padding: 20px;
+  text-align: right;
+}
+
+table td.service,
+table td.desc {
+  vertical-align: top;
+}
+
+table td.unit,
+table td.qty,
+table td.total {
+  font-size: 1.2em;
+}
+
+table td.grand {
+  border-top: 1px solid #5D6975;;
+} */
+
+#notices .notice {
+  color: #5D6975;
+  font-size: 1.2em;
+}
+
+footer {
+/*  color: #5D6975;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  border-top: 1px solid #C1CED9;
+  padding: 8px 0;
+  text-align: center;*/
+}
